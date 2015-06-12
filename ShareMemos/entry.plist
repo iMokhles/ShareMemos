@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = ShareMemos;
+		cell = PSLinkCell;
+		detail = "ShareMemosListController";
+		icon = "ShareMemosPrefs.png";
+		isController = 1;
+		label = ShareMemos;
+	};
+}

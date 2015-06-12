@@ -1,0 +1,10 @@
+Package: com.iosdevt.sharememos
+Name: ShareMemos
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iOSDevT
+Author: iOSDevT
+Section: Tweaks
+Version: 1.0-2
+Installed-Size: 932
